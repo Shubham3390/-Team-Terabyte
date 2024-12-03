@@ -1,10 +1,10 @@
 "Ai in Entertainment"
 
-]Team members : 
+Team members : 
 
 1.Yatri Manavadariya (ku2407u242@karnavatiuniversity.edu.in)
-2.Aanal Nathvani (ku2407u002@karnavatiuniversity.edu.in)
-3.Khushi Malani (ku2407u464@karnavatiuniversity.edu.in)
+2.Aanal Nathvani (ku2407u002@karnavatiuniversity.edu.in) 
+3.Khushi Malani (ku2407u464@karnavatiuniversity.edu.in)  
 4.Shubham Raiyani (ku2407u767@karnavatiuniversity.edu.in)
 
 Project Objectives :
