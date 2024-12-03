@@ -1,6 +1,6 @@
-Ai in Entertainment
-Team Terabytes
-Team members : 
+"Ai in Entertainment"
+
+]Team members : 
 
 1.Yatri Manavadariya (ku2407u242@karnavatiuniversity.edu.in)
 2.Aanal Nathvani (ku2407u002@karnavatiuniversity.edu.in)
